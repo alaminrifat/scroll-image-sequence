@@ -1,6 +1,7 @@
 ---
 name: scroll-image-sequence
 description: Build a scroll-linked image sequence — a canvas animation where scroll position steps through preloaded frames, frame 0 to frame N, the way Apple's product pages reveal hardware. Use when the user asks for a scroll-driven or scroll-scrubbed image sequence, a frame-by-frame animation tied to scroll, an exploded or rotating product reveal, a pinned hero that animates as you scroll through it, or says "like Apple does it".
+license: MIT-0
 ---
 
 # Scroll-linked image sequence
@@ -214,3 +215,9 @@ rendered stills. If the content is a straight linear playback, a muted inline
 video is smaller and simpler. If the motion is geometric rather than
 photographic, CSS or SVG will be sharper at every size and a fraction of the
 weight.
+
+## License
+
+MIT-0 (MIT No Attribution) — see [LICENSE](LICENSE). Use it, change it, ship it
+commercially, no attribution required. A credit back to the original author is
+appreciated but never demanded.

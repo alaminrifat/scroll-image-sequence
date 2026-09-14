@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: MIT-0
+# scroll-image-sequence — (c) 2026 alaminrifat. Credit appreciated, not required.
+
 import os, sys
 from PIL import Image
 

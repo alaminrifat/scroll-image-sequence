@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT-0
+// scroll-image-sequence — (c) 2026 alaminrifat. Credit appreciated, not required.
+
 import { useEffect, useMemo, useRef, useState } from 'react';
 import type { ReactNode } from 'react';
 
